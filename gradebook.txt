@@ -1,0 +1,141 @@
+Name: Chris
+Class: Physics
+Quiz1= 90% 
+Exam3= 89% 
+Quiz2= 78% 
+Exam4= 90% 
+Quiz3= 89% 
+Homework1= 89% 
+Exam1= 9% 
+Exam2= 67% 
+Project2= 78% 
+Project1= 89% 
+Project= 83% 
+Quiz= 85% 
+Exam= 63% 
+Homework= 89% 
+Total grade= 77.0% 
+ 
+Name: Chris
+Class: Statistics
+Quiz1= 90% 
+Homework1= 90% 
+Exam1= 90% 
+Project1= 90% 
+Project= 90% 
+Quiz= 90% 
+Exam= 90% 
+Homework= 90% 
+Total grade= 89.0%
+
+Name: Charles
+Class: Programming
+Quiz1= 100% 
+Homework1= 100% 
+Exam1= 100% 
+Project1= 100% 
+Project= 100% 
+Quiz= 100% 
+Exam= 100% 
+Homework= 100% 
+Total grade= 100.0% 
+ 
+
+Name: Charles
+Class: English
+Quiz1= 90% 
+Homework1= 90% 
+Exam1= 90% 
+Project1= 90% 
+Project= 90% 
+Quiz= 90% 
+Exam= 90% 
+Homework= 90% 
+Total grade= 89.0% 
+ 
+
+Name: Chris
+Class: Psychology
+Quiz1= 100% 
+Homework1= 100% 
+Exam1= 100% 
+Project1= 100% 
+Project= 100% 
+Quiz= 100% 
+Exam= 100% 
+Homework= 100% 
+Total grade= 100.0%
+
+
+Name: Chris
+Class: English
+Homework3= 100% 
+Homework2= 90% 
+Homework1= 80% 
+Project3= 90% 
+Project2= 90% 
+Project1= 100% 
+Quiz5= 98% 
+Quiz1= 100% 
+Exam3= 99% 
+Quiz2= 80% 
+Exam4= 87% 
+Quiz3= 90% 
+Quiz4= 75% 
+Exam1= 89% 
+Exam2= 65% 
+Project= 93% 
+Quiz= 88% 
+Exam= 85% 
+Homework= 90% 
+Total grade= 87.0%
+ 
+
+Name: Loretta
+Class: History
+Quiz1= 100% 
+Exam3= 100% 
+Homework3= 100% 
+Quiz2= 95% 
+Homework2= 100% 
+Quiz3= 90% 
+Homework1= 100% 
+Exam1= 100% 
+Exam2= 100% 
+Project3= 100% 
+Project2= 100% 
+Project1= 100% 
+Project= 100% 
+Quiz= 95% 
+Exam= 100% 
+Homework= 100% 
+Total grade= 99.0% 
+ 
+
+Name: Charles
+Class: German
+Homework3= 100% 
+Homework2= 100% 
+Homework1= 0% 
+Homework6= 80% 
+Homework5= 90% 
+Homework4= 100% 
+Project4= 70% 
+Project3= 90% 
+Project2= 80% 
+Project1= 90% 
+Quiz1= 85% 
+Exam3= 59% 
+Quiz2= 88% 
+Exam4= 87% 
+Quiz3= 94% 
+Quiz4= 77% 
+Exam1= 67% 
+Exam2= 99% 
+Project= 82% 
+Quiz= 86% 
+Exam= 78% 
+Homework= 78% 
+Total grade= 79.0% 
+ 
+
