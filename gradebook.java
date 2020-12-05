@@ -150,7 +150,7 @@ public class gradebook {
 
     public double overallGrade(HashMap<String, Integer> averageGrades, HashMap<String, Integer> weight, ArrayList<String> gradeTypes){
         /**
-         * Calculates the overall grade for the class selected
+         * Calculates the overall grade for the class selected.
          */
         int overallGrade = 0;
         for (int i = 0; i< averageGrades.size(); i++){
